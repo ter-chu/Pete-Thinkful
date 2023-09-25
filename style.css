@@ -58,28 +58,15 @@ hr {
  }
 
 .smallFont {
-  font-size: x-large;
-}
-
-.mediumFont {
-  font-size:medium;  
+  font-size: 150%;
 }
 
 .largeFont {
-  font-size: xx-large;
+  font-size: 300%;
 }
 
 .leftAlign {
   text-align: left;
-}
-
-#Portfolio {
-  font-size: xx-large;
-}
-
-#Contact {
-  text-align: center;
-  font-size: xx-large;
 }
 
 .center {
