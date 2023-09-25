@@ -56,7 +56,9 @@ hr {
 .center {
   text-align: center;
  }
-
+.tinyFont {
+  font-size: 75%;
+}
 .smallFont {
   font-size: 125%;
 }
